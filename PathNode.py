@@ -34,6 +34,8 @@ class PathMapper:
         return results
 
 
+# Test class
+
 my_tree = SplitPath()
 sub_tree0 = SplitPath()
 sub_tree1 = SplitPath()
